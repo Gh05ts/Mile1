@@ -1,4 +1,4 @@
-# CORE JAVA PROJECT: STUDENT GRADE CALCULATION   
+# Mile1: CORE JAVA PROJECT: STUDENT GRADE CALCULATION   
  
 ## Project Design: 
 You need to implement a Student grade calculation system in Java. Here, data is available in an array of objects.  
